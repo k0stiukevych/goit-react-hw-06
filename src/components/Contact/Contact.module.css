@@ -1,0 +1,46 @@
+.box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    width: 270px;
+}
+
+.contactIcon {
+    width: 25px;
+    height: 25px;
+    margin-right: 6px;
+}
+
+.contactIconPhone {
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+    margin-right: 10px;
+}
+
+.boxText {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.text {
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+}
+
+.btn {
+    height: 30px;
+    width: 70px;
+    background-color: rgba(207, 70, 65, 0.327);
+    border: none;
+    border-radius: 6px;
+}
+
+.btn:hover {
+    background-color: rgba(226, 56, 50, 0.871)
+}

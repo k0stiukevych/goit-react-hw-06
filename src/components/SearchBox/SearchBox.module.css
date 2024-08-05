@@ -1,0 +1,16 @@
+.box {
+    margin-bottom: 20px;
+}
+
+.text {
+    font-size: 14px;
+}
+
+.input {
+    height: 25px;
+    width: 200px;
+    border: 1px solid #ffffff;
+    background-color: rgb(43, 43, 43);
+    border-radius: 5px;
+    padding-left: 10px;
+}
